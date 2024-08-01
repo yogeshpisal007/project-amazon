@@ -1,0 +1,77 @@
+* {
+    font-family:"times new roman";
+}
+
+body {
+    background-color:white;
+}
+#h1 {
+   font-weight:lighter;
+    color:red;
+}
+
+#mynameisyogesh {
+    background-color:red;
+}
+
+button {
+    background-color:green;
+}
+p {
+    text-align:center;
+}
+h1 {
+    text-align:center;
+    text-decoration :black underline ; 
+    text-transform:capitalize;
+}
+h2 {
+    text-decoration:overline;
+}
+h3 {
+    text-decoration:line-through;
+}
+a {
+    text-decoration:none;
+} 
+#h2 {
+    font-weight:bold;
+    font-weight:500;
+}
+#h3 {
+    font-weight:bolder;
+    font-weight:700;
+
+}
+#h1 {
+    font-weight:100;
+}
+#one {
+    font-family:arial;
+}
+#two {
+    font-family:verdana; 
+}
+#three {
+    font-size:30px;
+    line-height:20px;
+text-transform:uppercase;
+}
+#four {
+    font-size:25px;
+    line-height:50px;
+    text-transform:lowercase;
+    
+}
+#five {
+    font-size:30px;
+    line-height:60px; 
+    text-transform:capitalize;
+}
+#outer {
+    font-size:25px;
+}
+
+#inner {
+    font-size:10px;
+}

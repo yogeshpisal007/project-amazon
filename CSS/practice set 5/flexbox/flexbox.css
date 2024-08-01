@@ -1,0 +1,42 @@
+body {
+    text-align:center;
+}
+div {
+    height:100px;
+    width:150px; 
+    display:inline-block;
+    border:2px solid black;
+}
+
+#container {
+    width:1100px;
+    height:600px;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    /*flex-wrap:wrap;*/
+    align-items:flex-start;
+    /*align-content: flex-start;*/
+}
+#box1 {
+    background-color:aqua;
+    flex-grow:20;
+}
+#box2 {
+    background-color:pink;
+    height:200px;
+    /*align-self:flex-end;*/
+   flex-shrink:  24;
+}
+#box3 {
+    background-color:darkkhaki;
+    height:75px;
+    flex-grow:19;
+
+}
+#box4 {
+    background-color:indianred;
+}
+#box5 {
+    background-color:slateblue;
+} 
